@@ -9,12 +9,12 @@
   
 | 프로젝트 | 소개 | 바로가기 |
 |:-|:-|:-:|
-|**👩🏻‍💻 dlwldms**|2026 개인 포트폴리오|[👩🏻‍🌾](https://www.github.com/317dlwldms/dlwldms)&nbsp;&nbsp;&nbsp;[👩🏻‍💻](https://www.dlwldms.com)|
-|**🍶 MCA**|MCA 월간도예 매거진 홈페이지 리디자인|[👩🏻‍🌾](https://www.github.com/317dlwldms/MCA)&nbsp;&nbsp;&nbsp;[👩🏻‍💻](https://www.dlwldms.com/mca)|
-|**⏱️ Tik-Tok**|위치와 시간을 기반으로 상황에 맞는 음악을 추천하는 웹 프로젝트|[👩🏻‍🌾](https://www.github.com/317dlwldms/dlwldms)&nbsp;&nbsp;&nbsp;[👩🏻‍💻](https://www.dlwldms.com/tik-tok)|
-|**🌱 AKMU**|아티스트 앨범을 소개하는 웹페이지|[👩🏻‍🌾](https://www.github.com/317dlwldms/AKMU)&nbsp;&nbsp;&nbsp;[👩🏻‍💻](https://www.dlwldms.com/akmu)|
+|**👩🏻‍💻 dlwldms**|2026 개인 포트폴리오|[👩🏻‍💻](https://www.dlwldms.com)&nbsp;&nbsp;&nbsp;[👩🏻‍🌾](https://www.github.com/317dlwldms/dlwldms)|
+|**🍶 MCA**|MCA 월간도예 매거진 홈페이지 리디자인|[👩🏻‍💻](https://www.dlwldms.com/mca)&nbsp;&nbsp;&nbsp;[👩🏻‍🌾](https://www.github.com/317dlwldms/MCA)|
+|**⏱️ Tik-Tok**|위치와 시간을 기반으로 상황에 맞는 음악을 추천하는 웹 프로젝트|[👩🏻‍💻](https://www.dlwldms.com/tik-tok)&nbsp;&nbsp;&nbsp;[👩🏻‍🌾](https://www.github.com/317dlwldms/tik-tok)|
+|**🌱 AKMU**|아티스트 앨범을 소개하는 웹페이지|[👩🏻‍💻](https://www.dlwldms.com/akmu)&nbsp;&nbsp;&nbsp;[👩🏻‍🌾](https://www.github.com/317dlwldms/AKMU)|
 
-👩🏻‍🌾 : GitHub | 👩🏻‍💻 : Website
+👩🏻‍💻 : Website | 👩🏻‍🌾 : GitHub
 </details>
 
 <br/>

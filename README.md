@@ -14,7 +14,7 @@
 |**⏱️ Tik-Tok**|위치와 시간을 기반으로 상황에 맞는 음악을 추천하는 웹 프로젝트|[👩🏻‍🌾](https://www.github.com/317dlwldms/dlwldms)&nbsp;&nbsp;&nbsp;[👩🏻‍💻](https://www.dlwldms.com/tik-tok)|
 |**🌱 AKMU**|아티스트 앨범을 소개하는 웹페이지|[👩🏻‍🌾](https://www.github.com/317dlwldms/AKMU)&nbsp;&nbsp;&nbsp;[👩🏻‍💻](https://www.dlwldms.com/akmu)|
 
-👩🏻‍💻 : Website | 👩🏻‍🌾 : GitHub
+👩🏻‍🌾 : GitHub | 👩🏻‍💻 : Website
 </details>
 
 <br/>

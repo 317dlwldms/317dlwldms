@@ -1,11 +1,11 @@
-<h2>👩🏻‍💻dlwldms | 👩🏻‍🌾이지은</h2>
+<h2>👩🏻‍💻 dlwldms | 👩🏻‍🌾 이지은</h2>
 
 > **형태를 빚는 감각에서 기능을 구현하는 논리로**
 
- 웹 퍼블리셔에서 프론트엔드 개발자로 성장해 나아가는 이지은입니다.
+ 웹 퍼블리셔에서 프론트엔드 개발자로 성장해 나아가고 있습니다.
 
 <details>
-  <summary>📁 Project</summary>
+  <summary>📁 Projects</summary>
   
 | 프로젝트 | 소개 | 바로가기 |
 |:-|:-|:-:|
@@ -18,6 +18,9 @@
 </details>
 
 <br/>
-<a href="https://open.kakao.com/o/sfAyz4ei"><img src="https://img.shields.io/badge/OpenTalk-aaa?style=flat&logo=kakaotalk&logoColor=white" /></a>
-<a href="https://obtainable-shallot-6b9.notion.site/23fa8ff395ee807fba53f978eafa5469"><img src="https://img.shields.io/badge/Notion-aaa?style=flat&logo=notion&logoColor=white" /></a>
-<a href="https://www.instagram.com/eazyeun/"><img src="https://img.shields.io/badge/Instagram-aaa?style=flat&logo=Instagram&logoColor=white" /></a>
+<p>
+ <a href="https://open.kakao.com/o/sfAyz4ei"><img src="https://img.shields.io/badge/OpenTalk-aaa?style=flat&logo=kakaotalk&logoColor=white" /></a>
+ <a href="https://obtainable-shallot-6b9.notion.site/23fa8ff395ee807fba53f978eafa5469"><img src="https://img.shields.io/badge/Notion-aaa?style=flat&logo=notion&logoColor=white" /></a>
+ <a href="https://www.instagram.com/eazyeun/"><img src="https://img.shields.io/badge/Instagram-aaa?style=flat&logo=Instagram&logoColor=white" /></a>
+</p>
+

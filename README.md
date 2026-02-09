@@ -19,8 +19,8 @@
 
 <br/>
 <p>
- <a href="https://open.kakao.com/o/sfAyz4ei"><img src="https://img.shields.io/badge/OpenTalk-aaa?style=flat&logo=kakaotalk&logoColor=white" /></a>
- <a href="https://obtainable-shallot-6b9.notion.site/23fa8ff395ee807fba53f978eafa5469"><img src="https://img.shields.io/badge/Notion-aaa?style=flat&logo=notion&logoColor=white" /></a>
- <a href="https://www.instagram.com/eazyeun/"><img src="https://img.shields.io/badge/Instagram-aaa?style=flat&logo=Instagram&logoColor=white" /></a>
+ <a href="https://open.kakao.com/o/sfAyz4ei" target="_blank"><img src="https://img.shields.io/badge/OpenTalk-aaa?style=flat&logo=kakaotalk&logoColor=white" /></a>
+ <a href="https://obtainable-shallot-6b9.notion.site/23fa8ff395ee807fba53f978eafa5469" target="_blank"><img src="https://img.shields.io/badge/Notion-aaa?style=flat&logo=notion&logoColor=white" /></a>
+ <a href="https://www.instagram.com/eazyeun/" target="_blank"><img src="https://img.shields.io/badge/Instagram-aaa?style=flat&logo=Instagram&logoColor=white" /></a>
 </p>
 
